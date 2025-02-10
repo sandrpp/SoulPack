@@ -1,0 +1,205 @@
+{"providers":[
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/admin_scoreboard.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"҂"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/question_mark.png",
+		"height": 11,
+		"ascent": 9,
+		"chars": [
+			"֍"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/vipplus.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"؎"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/spieler.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"؏"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/vip.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"۞"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/dev.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"۩"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/azubi-dev.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"۾"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/builder.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"۽"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/sup.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"߶"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/mod.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"৺"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/admin.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"୰"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/owner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௳"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/azubi.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௴"
+		]
+	},	
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/youtube.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௵"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/co-owner.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௶"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/media.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௷"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/soul.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௸"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/head-media.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"௺"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/ranks/baumeister.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"౿"
+		]
+	},
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/bee.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"൏"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/fire.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"൹"
+		]
+	}
+	,
+	{
+		"type": "bitmap",
+		"file": "minecraft:custom/nations/water.png",
+		"height": 9,
+		"ascent": 9,
+		"chars": [
+			"༁"
+		]
+	}
+	
+
+]
+}
