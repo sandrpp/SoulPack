@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "soulpack:item/soul_sword_damage"
+  }
+}
